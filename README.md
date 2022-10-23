@@ -39,6 +39,6 @@
 ![image](https://user-images.githubusercontent.com/115475424/197329584-1666e13c-77b0-4c67-ac23-325ca729d311.png)
 
 
-- Berikut hasilnya setelah di running program
+- Berikut hasilnya setelah di running program nilai Variabel
 
 ![image](https://user-images.githubusercontent.com/115475424/197329638-98d863a1-3039-419a-a9b8-572c4332c2df.png)

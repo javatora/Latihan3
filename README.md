@@ -1,9 +1,29 @@
 # Tugas Pertemuan 5
-Nama  : Zainul Mutaqin
-NIM   : 312210153
-Kelas : TI.22.B1
+### Nama  : Zainul Mutaqin
+### NIM   : 312210153
+### Kelas : TI.22.B1
+
 
 ## Proses/Langkah-langkah Praktikum yang dijalankan
+
+## Install Python
+1. Donwload Python
+
+![image](https://user-images.githubusercontent.com/115475424/197382086-b008fce7-74d4-4a10-9bef-ad0d8de66ee7.png)
+
+
+2. Buka hasil Download, kemudian Instal
+- Centang Add Python.exe to PATH
+- Kemudian Klik Instal NOW
+
+![image](https://user-images.githubusercontent.com/115475424/197382162-da6b9a32-698e-463f-a463-731577f453db.png)
+
+3. Instalasi Selesai
+
+![image](https://user-images.githubusercontent.com/115475424/197382200-5aadaa22-7d91-4eb0-a9d2-ccdf7c383d81.png)
+
+
+
 
 # Latihan1
 
